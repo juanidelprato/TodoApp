@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply text-center font-[Montserrat];
+}
+
+h3 {
+  @apply text-xl font-bold my-4;
+}
